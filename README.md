@@ -30,46 +30,103 @@ Python, R, C/C++, MATLAB, SQL (MySQL/PostgreSQL/SQLite), ROS, Pandas, NumPy, Sci
 **STEM Mentor (O-Level Physics & Additional Mathematics) @ Private/One-to-one Tutoring** *(2022 – 2023 | Chattogram, Bangladesh)*  
 - Mentored O-Level students in Physics and Additional Mathematics
 
-## Projects
-### Customer Segmentation
-- Applied unsupervised learning (e.g., k-means clustering) on customer behavior data to discover meaningful segments for targeted marketing campaigns. *(Link in CV)*
 
-### Heart Disease Prediction
-- Built supervised ML models to predict heart disease risk from clinical features, including preprocessing, feature selection, and evaluation. *(Link in CV)*
-
-### Face Verification System
-- Implemented a deep learning-based pipeline for face detection, feature extraction, and identity verification using CNN architectures. *(Link in CV)*
-
-## Publications (Selected / From CV)
-**Overview:** Published **13 journal articles** (6 as 1st author) and **5 conference/workshop papers**; ongoing and under-review work in ML, multimodal learning, and assistive robotics.
+## Publications
+**Overview:** Published **13 journal articles** (6 as 1st author) and **5 conference/workshop papers**, with ongoing and under-review work in ML, multimodal learning, and assistive robotics.
 
 ### Journal Articles
-1. MRAN-VQA: Multimodal Recursive Attention Network for Visual Question Answering. *Engineering Science and Technology*, 2025. doi:10.1016/j.jestch.2024.102232  
-2. Zero-BertXGB: Abstract Classification in Systematic Reviews. *IEEE Access*, 2025. doi:10.1109/ACCESS.2025.3531778  
-3. GastroVRG: Early Screening in Gastrointestinal Health via Advanced Transfer Features. *Intelligent Systems with Applications*, 2024. doi:10.1016/j.iswa.2024.200399  
-4. CDK: Transfer Feature Technique for Early Detection of Osteoarthritis. *Journal of Pathology Informatics*, 2024. doi:10.1016/j.jpi.2024.100382  
-5. Driver behavior understanding with RKND. *IEEE Access*, 2024. doi:10.1109/ACCESS.2024.3397725  
-6. Global stock market: correlation, prediction, and external factors. *Iran Journal of Computer Science*, 2024. doi:10.1007/s42044-024-00177-w  
-7. MediGPT: Conventional and Large Language Models on Medical Data. *IEEE Access*, 2024. doi:10.1109/ACCESS.2024.3428918  
-8. SumGPT: Multimodal Framework for Radiology Report Summarization. *IEEE Access*, 2025. doi:10.1109/ACCESS.2025.3528335  
-9. Forecasting Myocardial Infarction Occurrences with Time Series Patient Data. *Journal of Medical Systems*, 2024. doi:10.1007/s10916-024-02076-w  
-10. Cancer Type and Subtype Identification. *IEEE Access*, 2024. doi:10.1109/ACCESS.2024.3422313  
-11. MemesViTa: Multimodal Fusion Technique for Troll Memes Identification. *IEEE Access*, 2024. doi:10.1109/ACCESS.2024.3505614  
-12. AE-Net: Autoencoder-Based Deep Features for SQL Injection Attack Detection. *IEEE Access*, 2023. doi:10.1109/ACCESS.2023.3337645  
-13. BNVGLENET: Hypercomplex Bangla handwriting character recognition. *Natural Language Processing Journal*, 2024. doi:10.1016/j.nlp.2024.100068  
+1. **M. S. Islam**, M. A. T. Rony, M. M. H. Sarker, M. K. B. Bhuiyan, M. Saib, M. Aktarujjaman, M. S. Uddin, A. D. Algarni, A. T. Azar, W. El-Shafai.  
+   *MRAN-VQA: Multimodal Recursive Attention Network for Visual Question Answering.* **Engineering Science and Technology, an International Journal**, 72:102232, 2025.  
+   [DOI: 10.1016/j.jestch.2024.102232](https://doi.org/10.1016/j.jestch.2024.102232)
+
+2. **M. S. Islam**, M. A. T. Rony, M. R. Hossain, S. Alshathri, W. El-Shafai.  
+   *Zero-BertXGB: An Empirical Technique for Abstract Classification in Systematic Reviews.* **IEEE Access**, 13:18418–18440, 2025.  
+   [DOI: 10.1109/ACCESS.2025.3531778](https://doi.org/10.1109/ACCESS.2025.3531778)
+
+3. **M. S. Islam**, M. A. T. Rony, T. Sultan.  
+   *GastroVRG: Enhancing Early Screening in Gastrointestinal Health via Advanced Transfer Features.* **Intelligent Systems with Applications**, 23:200399, 2024.  
+   [DOI: 10.1016/j.iswa.2024.200399](https://doi.org/10.1016/j.iswa.2024.200399)
+
+4. **M. S. Islam**, M. A. T. Rony.  
+   *CDK: A high-performance transfer feature technique for early detection of osteoarthritis.* **Journal of Pathology Informatics**, 15:100382, 2024.  
+   [DOI: 10.1016/j.jpi.2024.100382](https://doi.org/10.1016/j.jpi.2024.100382)
+
+5. **M. S. Islam**, M. A. T. Rony, S. Alfarhood, D. Che.  
+   *Elevating driver behavior understanding with RKND.* **IEEE Access**, 12:65780–65798, 2024.  
+   [DOI: 10.1109/ACCESS.2024.3397725](https://doi.org/10.1109/ACCESS.2024.3397725)
+
+6. **M. S. Islam**, M. A. T. Rony.  
+   *Navigating the global stock market: correlation, prediction, and external factors.* **Iran Journal of Computer Science**, 7(3):397–422, 2024.  
+   [DOI: 10.1007/s42044-024-00177-w](https://doi.org/10.1007/s42044-024-00177-w)
+
+7. M. A. T. Rony, **M. S. Islam**, T. Sultan, S. Alshathri, W. El-Shafai.  
+   *MediGPT: Exploring Potentials of Conventional and Large Language Models on Medical Data.* **IEEE Access**, 12:103473–103487, 2024.  
+   [DOI: 10.1109/ACCESS.2024.3428918](https://doi.org/10.1109/ACCESS.2024.3428918)
+
+8. T. Sultan, M. A. T. Rony, **M. S. Islam**, S. Alshathri, W. El-Shafai.  
+   *SumGPT: A Novel Multimodal Framework for Radiology Report Summarization to Improve Clinical Performance.* **IEEE Access**, 13:15929–15945, 2025.  
+   [DOI: 10.1109/ACCESS.2025.3528335](https://doi.org/10.1109/ACCESS.2025.3528335)
+
+9. M. S. Sayed, M. A. T. Rony, **M. S. Islam**, *et al.*  
+   *A Novel Deep Learning Approach for Forecasting Myocardial Infarction Occurrences with Time Series Patient Data.* **Journal of Medical Systems**, 48:53, 2024.  
+   [DOI: 10.1007/s10916-024-02076-w](https://doi.org/10.1007/s10916-024-02076-w)
+
+10. J. O. Bappi, M. A. T. Rony, **M. S. Islam**, S. Alshathri, W. El-Shafai.  
+   *A Novel Deep Learning Approach for Accurate Cancer Type and Subtype Identification.* **IEEE Access**, 12:94116–94134, 2024.  
+   [DOI: 10.1109/ACCESS.2024.3422313](https://doi.org/10.1109/ACCESS.2024.3422313)
+
+11. T. Sultan, M. A. T. Rony, **M. S. Islam**, S. Aldosary, W. El-Shafai.  
+   *MemesViTa: A Novel Multimodal Fusion Technique for Troll Memes Identification.* **IEEE Access**, 12:177811–177828, 2024.  
+   [DOI: 10.1109/ACCESS.2024.3505614](https://doi.org/10.1109/ACCESS.2024.3505614)
+
+12. N. Thalji, A. Raza, **M. S. Islam**, N. A. Samee, M. M. Jamjoom.  
+   *AE-Net: Novel Autoencoder-Based Deep Features for SQL Injection Attack Detection.* **IEEE Access**, 11:135507–135516, 2023.  
+   [DOI: 10.1109/ACCESS.2023.3337645](https://doi.org/10.1109/ACCESS.2023.3337645)
+
+13. J. O. Bappi, M. A. T. Rony, **M. S. Islam**.  
+   *BNVGLENET: Hypercomplex Bangla handwriting character recognition with hierarchical class expansion using convolutional neural networks.* **Natural Language Processing Journal**, 7:100068, 2024.  
+   [DOI: 10.1016/j.nlp.2024.100068](https://doi.org/10.1016/j.nlp.2024.100068)
 
 ### Conference / Workshop Papers
-1. BanVATLLM and BanTSS: Toxic Speech in Bangla and Bangla-English Videos. *WiNLP 2024 (Phase II)*, 2024.  
-2. Beyond Words: Text Complexity Dataset and Classifier Application. *ICCIT 2023*. doi:10.1109/ICCIT60459.2023.10441159  
-3. Evaluating Large Language Models for Summarizing Bangla Texts. *WiNLP 2024 (Phase II)*, 2024.  
-4. TraSe: Retrieval-Augmented Generation in Bangla. *LM4UC 2025*, ACL, 2025. doi:10.18653/v1/2025.lm4uc-1.2  
-5. MemeFusionNet: Cross-Linguistic Multimodal Model for Troll Memes. *ICCAD 2025*. doi:10.1109/ICCAD64771.2025.11099160  
+1. **M. S. Islam**, M. A. T. Rony.  
+   *BanVATLLM and BanTSS: A Multimodal Framework and a Dataset for Detecting Toxic Speech in Bangla and Bangla-English Videos.* **WiNLP 2024 (Phase II)**, 2024 (online).  
+   [OpenReview PDF](https://openreview.net/pdf?id=A3VftpG0Xl)
+
+2. **M. S. Islam**, M. A. T. Rony, P. Saha, M. Ahammad, S. M. N. Alam, M. S. Rahman.  
+   *Beyond Words: Unraveling Text Complexity with a Novel Dataset and a Classifier Application.* **ICCIT 2023**.  
+   [DOI: 10.1109/ICCIT60459.2023.10441159](https://doi.org/10.1109/ICCIT60459.2023.10441159)
+
+3. M. A. T. Rony, **M. S. Islam**.  
+   *Evaluating Large Language Models for Summarizing Bangla Texts.* **WiNLP 2024 (Phase II)**, 2024.  
+   [OpenReview PDF](https://openreview.net/pdf?id=Z0zfZ4bn4x)
+
+4. A. S. Ipa, M. A. T. Rony, **M. S. Islam**.  
+   *TraSe: Architecture for Enhanced Retrieval-Augmented Generation in Bangla.* **LM4UC 2025 (ACL Workshop)**, 2025, pp. 8–15.  
+   [DOI: 10.18653/v1/2025.lm4uc-1.2](https://doi.org/10.18653/v1/2025.lm4uc-1.2) | [ACL Anthology](https://aclanthology.org/2025.lm4uc-1.2/)
+
+5. T. Sultan, H. A. Akbarpour, W. El-Shafai, M. Saib, M. K. B. Bhuiyan, **M. S. Islam**, A. T. Azar, C. B. Njima.  
+   *MemeFusionNet: A Cross-Linguistic Multimodal Model for Identifying Troll Memes.* **ICCAD 2025**, pp. 1–6, 2025.  
+   [DOI: 10.1109/ICCAD64771.2025.11099160](https://doi.org/10.1109/ICCAD64771.2025.11099160)
+
+
+## Projects
+### Customer Segmentation
+Applied unsupervised learning (e.g., k-means clustering) on customer behavior data to discover meaningful segments for targeted marketing campaigns.  
+[GitHub Repository](https://github.com/001sharifulIslamnstu/ML-Project-Customer-Segmentation)
+
+### Heart Disease Prediction
+Built supervised ML models to predict heart disease risk from clinical features, including data preprocessing, feature selection, and model evaluation.  
+[GitHub Repository](https://github.com/001sharifulIslamnstu/ML-Project-Heart_Disease_Prediction)
+
+### Face Verification System
+Implemented a deep learning-based pipeline for face detection, feature extraction, and identity verification using CNN architectures.  
+[GitHub Repository](https://github.com/001sharifulIslamnstu/Face-Verification-System)
 
 ## Certifications
-- Data Science Capstone (Certificate)  
-- Natural Language Processing Specialization (Certificate)  
-- Deep Learning Specialization (Certificate)  
-- Machine Learning for Materials Boot Camp (NUMBR), University of Wisconsin–Madison  
+- **Data Science Capstone** — [Certificate](https://www.coursera.org/account/accomplishments/certificate/Z6JBFE96JRAM)
+- **Natural Language Processing Specialization** — [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2ZF8SE8JFNCD)
+- **Deep Learning Specialization** — [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KTQLWEEUWNUY)
+- **Machine Learning for Materials Boot Camp (NUMBR)** — University of Wisconsin–Madison
 
 ## English Proficiency
 - **IELTS Academic (Computer-delivered): 6.5 overall** *(Test Date: 2025-11-18)*  
