@@ -2,7 +2,7 @@
 
 **Location:** Chattagram, Bangladesh  
 **Email:** shariful.cse43@gmail.com    
-**Profiles:** Google Scholar — LinkedIn — ResearchGate  
+**Profiles:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=-Rut6DAAAAAJ) — [LinkedIn](https://www.linkedin.com/in/shariful-islam-prince-9389a8181/) — [ResearchGate](https://www.researchgate.net/profile/Mohammad-Islam-462) — [Portfolio](https://001sharifulislamnstu.github.io/portfolio/)
 
 #### Technical Skills
 Python, R, C/C++, MATLAB, SQL (MySQL/PostgreSQL/SQLite), Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, spaCy, NLTK, OpenCV, Matplotlib, Seaborn, Plotly, Jupyter/Colab, RStudio, Git/GitHub/GitLab, VS Code, PyCharm, HTML/CSS/JavaScript, Django, LaTeX/Overleaf
