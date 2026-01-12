@@ -1,12 +1,11 @@
 # Md Shariful Islam — Researcher Assistant
 
 **Location:** Chattagram, Bangladesh  
-**Email:** shariful.cse43@gmail.com  
-**Phone:** +88 01644188553  
+**Email:** shariful.cse43@gmail.com    
 **Profiles:** Google Scholar — LinkedIn — ResearchGate  
 
 #### Technical Skills
-Python, R, C/C++, MATLAB, SQL (MySQL/PostgreSQL/SQLite), ROS, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, spaCy, NLTK, OpenCV, Matplotlib, Seaborn, Plotly, Jupyter/Colab, RStudio, Git/GitHub/GitLab, VS Code, PyCharm, HTML/CSS/JavaScript, Django, LaTeX/Overleaf
+Python, R, C/C++, MATLAB, SQL (MySQL/PostgreSQL/SQLite), Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, spaCy, NLTK, OpenCV, Matplotlib, Seaborn, Plotly, Jupyter/Colab, RStudio, Git/GitHub/GitLab, VS Code, PyCharm, HTML/CSS/JavaScript, Django, LaTeX/Overleaf
 
 ## Education
 - **B.Sc. in Computer Science and Telecommunication Engineering** | Noakhali Science and Technology University (NSTU), Chattagram, Bangladesh (**CGPA: 3.25/4**) *(Jan 2018 – May 2023)*  
@@ -16,10 +15,6 @@ Python, R, C/C++, MATLAB, SQL (MySQL/PostgreSQL/SQLite), ROS, Pandas, NumPy, Sci
 **Research Assistant (Full Time) @ Bangladesh University of Business and Technology (BUBT)** *(Apr 2025 – Present | Dhaka, Bangladesh)*  
 - Research in ML, DL, and NLP; design and implementation of models  
 - Built a reproducible end-to-end ML pipeline (ingestion → preprocessing → training → evaluation) with configurable baseline/deep models and experiment configurations  
-
-**Research Project Contributor (Remote) @ MechaRithm Lab, Saint Louis University** *(Jul 2025 – Present | St. Louis, MO, USA — Remote)*  
-- Collaboration on assistive robotics and multimodal intent recognition (EEG, EMG, eye-tracking)  
-- Contribute to experimental design, tri-modal data processing, and transformer-based model development in Python (PyTorch)  
 
 **Research Collaborator (Remote) @ Automated Systems and Soft Computing Lab (ASCL), Prince Sultan University** *(Jun 2023 – Present | Riyadh, Saudi Arabia — Remote)*  
 - Contribute to ML/DL/NLP projects including model design, multimodal pipelines, and reproducible training/evaluation codebases  
