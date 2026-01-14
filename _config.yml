@@ -3,3 +3,8 @@ logo: /img/assets/img/Shariful_Islam_image.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
+social_links:
+  linkedin: "https://www.linkedin.com/in/shariful-islam-prince-9389a8181/"
+  twitter: "https://twitter.com/YOUR_USERNAME"
+  github: "https://github.com/YOUR_USERNAME"
