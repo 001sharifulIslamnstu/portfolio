@@ -4,6 +4,8 @@
 **Email:** shariful.cse43@gmail.com    
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=-Rut6DAAAAAJ) — [LinkedIn](https://www.linkedin.com/in/shariful-islam-prince-9389a8181/) — [ResearchGate](https://www.researchgate.net/profile/Mohammad-Islam-462) — [Portfolio](https://001sharifulislamnstu.github.io/portfolio/)
 
+**Profiles:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=-Rut6DAAAAAJ) — [LinkedIn](https://www.linkedin.com/in/shariful-islam-prince-9389a8181/) — [X](https://x.com/SharifulPrince1) — [ResearchGate](https://www.researchgate.net/profile/Mohammad-Islam-462) — [Portfolio](https://001sharifulislamnstu.github.io/portfolio/)
+
 #### Technical Skills
 Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, spaCy, NLTK, OpenCV, Matplotlib, Seaborn, Plotly, Jupyter/Colab, RStudio, Git, VS Code, PyCharm, HTML/CSS/JavaScript, fastAPi, LaTeX/Overleaf
 
