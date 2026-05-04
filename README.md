@@ -27,7 +27,7 @@ Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, K
 
 
 ## Publications
-**Overview:** Published **13 journal articles** (6 as 1st author) and **5 conference/workshop papers**, with ongoing and under-review work in ML, multimodal learning, and assistive robotics.
+**Overview:** Published **14 journal articles** (7 as 1st author) and **5 conference/workshop papers**, with ongoing and under-review work in ML, multimodal learning, and assistive robotics.
 
 ---
 
