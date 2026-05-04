@@ -33,6 +33,13 @@ Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, K
 
 ## Journal Articles (by year)
 
+
+### 2026
+1. **M. S. Islam**, M. J. U. Chowdhury, M. M. U. Tareq, T. Ahmed, M. Aktarujjaman, M. S. Uddin.  
+   *SarcasmSense: A Novel Multitask Learning Framework for Vlog-Based Political Sarcasm and Irony Detection.* **IEEE Access**, 14:52118–52138, 2026.  
+   [DOI: 10.1109/ACCESS.2026.3674402](https://doi.org/10.1109/ACCESS.2026.3674402)
+
+
 ### 2025
 1. **M. S. Islam**, M. A. T. Rony, M. M. H. Sarker, M. K. B. Bhuiyan, M. Saib, M. Aktarujjaman, M. S. Uddin, A. D. Algarni, A. T. Azar, W. El-Shafai.  
    *MRAN-VQA: Multimodal Recursive Attention Network for Visual Question Answering.* **Engineering Science and Technology, an International Journal**, 72:102232, 2025.  
