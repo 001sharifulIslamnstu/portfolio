@@ -12,7 +12,7 @@ Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, K
   **Relevant Coursework:** OOP (C++, Java), Data Structures, Algorithms, Theory of Computation, Numerical Analysis, Discrete Mathematics, DBMS, Operating Systems, Computer Architecture, Software Engineering, AI & Neural Networks, HPC, Data Mining & Warehousing, Digital Image Processing, Multimedia Communications, Statistics & Probability, Matrices/Vector Analysis, Complex Variables.
 
 ## Work Experience
-**Research Assistant (Full Time) @ Bangladesh University of Business and Technology (BUBT)** *(Apr 2025 – Present | Dhaka, Bangladesh)*  
+**Research Assistant @ BUBT Research Graduate School, Bangladesh University of Business and Technology (BUBT)** *(Apr 2025 – Present | Dhaka, Bangladesh)*  
 - Research in ML, DL, and NLP; design and implementation of models  
 - Built a reproducible end-to-end ML pipeline (ingestion → preprocessing → training → evaluation) with configurable baseline/deep models and experiment configurations  
 
