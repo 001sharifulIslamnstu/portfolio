@@ -1,6 +1,6 @@
 # Md Shariful Islam — Researcher Assistant
 
-**Location:** Chattagram, Bangladesh  
+**Location:** Dhaka, Bangladesh  
 **Email:** shariful.cse43@gmail.com    
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=-Rut6DAAAAAJ) — [LinkedIn](https://www.linkedin.com/in/shariful-islam-prince-9389a8181/) — [X](https://x.com/SharifulPrince1) — [ResearchGate](https://www.researchgate.net/profile/Mohammad-Islam-462) — [Portfolio](https://001sharifulislamnstu.github.io/portfolio/)
 
