@@ -19,9 +19,6 @@ Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, K
 **Research Collaborator (Remote) @ Automated Systems and Soft Computing Lab (ASCL), Prince Sultan University** *(Jun 2023 – Present | Riyadh, Saudi Arabia — Remote)*  
 - Contribute to ML/DL/NLP projects including model design, multimodal pipelines, and reproducible training/evaluation codebases  
 
-**Teaching Assistant @ Department of Statistics, NSTU** *(May 2023 – Apr 2024 | Chattogram, Bangladesh)*  
-- Assisted in labs/tutorials for STAT 1111 (Fundamentals of Computer), STAT 1211 (Intro to Computer with Task-Oriented Software), STAT 2111 (Computer Programming)
-
 **STEM Mentor (O-Level Physics & Additional Mathematics) @ Private/One-to-one Tutoring** *(2022 – 2023 | Chattogram, Bangladesh)*  
 - Mentored O-Level students in Physics and Additional Mathematics
 
