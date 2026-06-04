@@ -11,16 +11,28 @@ Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, K
 - **B.Sc. in Computer Science and Telecommunication Engineering** | Noakhali Science and Technology University (NSTU), Chattagram, Bangladesh (**CGPA: 3.25/4**) *(Jan 2018 – May 2023)*  
   **Relevant Coursework:** OOP (C++, Java), Data Structures, Algorithms, Theory of Computation, Numerical Analysis, Discrete Mathematics, DBMS, Operating Systems, Computer Architecture, Software Engineering, AI & Neural Networks, HPC, Data Mining & Warehousing, Digital Image Processing, Multimedia Communications, Statistics & Probability, Matrices/Vector Analysis, Complex Variables.
 
+
 ## Work Experience
+
 **Research Assistant @ BUBT Research Graduate School, Bangladesh University of Business and Technology (BUBT)** *(Apr 2025 – Present | Dhaka, Bangladesh)*  
 - Research in ML, DL, and NLP; design and implementation of models  
 - Built a reproducible end-to-end ML pipeline (ingestion → preprocessing → training → evaluation) with configurable baseline/deep models and experiment configurations  
 
+**IT Specialist @ Astha Express** *(Jan 2024 – Jun 2024 | Dhaka, Bangladesh)*  
+- Managed product listings, content updates, and basic website maintenance  
+- Supported order data handling, inventory updates, and platform troubleshooting  
+- Assisted with digital operations to improve platform usability and workflow  
+
 **Research Collaborator (Remote) @ Automated Systems and Soft Computing Lab (ASCL), Prince Sultan University** *(Jun 2023 – Present | Riyadh, Saudi Arabia — Remote)*  
 - Contribute to ML/DL/NLP projects including model design, multimodal pipelines, and reproducible training/evaluation codebases  
 
+**Web Developer Intern @ Invert Emo Tech** *(Jul 2023 – Dec 2023 | Dhaka, Bangladesh)*  
+- Developed and maintained responsive web pages and improved UI components using HTML, CSS, JavaScript, and related tools  
+- Supported website customization, debugging, and feature implementation for web development projects  
+
 **STEM Mentor (O-Level Physics & Additional Mathematics) @ Private/One-to-one Tutoring** *(2022 – 2023 | Chattogram, Bangladesh)*  
 - Mentored O-Level students in Physics and Additional Mathematics
+
 
 
 ## Publications
