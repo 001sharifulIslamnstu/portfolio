@@ -12,13 +12,30 @@ Python, R, C/C++, MATLAB, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, K
   **Relevant Coursework:** OOP (C++, Java), Data Structures, Algorithms, Theory of Computation, Numerical Analysis, Discrete Mathematics, DBMS, Operating Systems, Computer Architecture, Software Engineering, AI & Neural Networks, HPC, Data Mining & Warehousing, Digital Image Processing, Multimedia Communications, Statistics & Probability, Matrices/Vector Analysis, Complex Variables.
 
 ## Research Experience
-**Research Assistant @ BUBT Research Graduate School, Bangladesh University of Business and Technology (BUBT)** *(Apr 2025 – Present | Dhaka, Bangladesh)*  
-- Research in ML, DL, and NLP; design and implementation of models  
-- Built a reproducible end-to-end ML pipeline (ingestion → preprocessing → training → evaluation) with configurable baseline/deep models and experiment configurations  
 
-**Research Collaborator (Remote) @ Automated Systems and Soft Computing Lab (ASCL), Prince Sultan University** *(Jun 2023 – Present | Riyadh, Saudi Arabia — Remote)*  
-- Contribute to ML/DL/NLP projects including model design, multimodal pipelines, and reproducible training/evaluation codebases  
+**Research Assistant @ BUBT Research Graduate School (BRGS), Bangladesh University of Business and Technology (BUBT)**
+*(Apr 2025 – Jun 2026 | Dhaka, Bangladesh)*
 
+* Built reproducible end-to-end ML pipelines, including data ingestion, preprocessing, model training, and evaluation.
+* Developed configurable baseline and deep learning model workflows with structured experiment settings.
+
+**Research Collaborator (Remote) @ Automated Systems and Soft Computing Lab (ASCL), Prince Sultan University**
+*(Jul 2024 – Jun 2026 | Riyadh, Saudi Arabia — Remote)*
+
+* Collaborated remotely with ASCL faculty on ML, DL, and NLP research projects.
+* Contributed to model design, multimodal pipeline development, reproducible training/evaluation codebases, and research publications.
+
+**Research Assistant @ aiQuest Intelligence**
+*(Jul 2023 – May 2024 | Dhaka, Bangladesh)*
+
+* Conducted research on medical time-series forecasting, medical image classification, and low-resource NLP.
+* Worked on applications including heart disease prediction and Bangla language processing.
+
+**Undergraduate Research Assistant @ Department of Computer Science and Telecommunication Engineering, NSTU**
+*(May 2022 – Apr 2023 | Dhaka, Bangladesh)*
+
+* Conducted research on stock-index forecasting using machine learning and deep learning techniques.
+* Analyzed internal and external factors affecting financial-market trends for predictive modeling.
 
 
 ## Work Experience
